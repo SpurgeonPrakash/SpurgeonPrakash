@@ -13,7 +13,9 @@
 <!---
 [![Spurgeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=spurgeonprakash&show_icons=true&theme=github_dark)](https://webdevparadise.com)
 -->
-## 🔗 Connect With Me
+<br/>
+
+## 🔗 Connect with me
 <p align="left">
 
 <a href="https://linkedin.com/spurgeon-gnan-prakasham-tara-29004195" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="spurgeon" height="30" width="40" /></a>
@@ -22,6 +24,9 @@
 <a href="https://www.facebook.com/webdevparadise" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="spurgeon" height="30" width="40" /></a>
 <a href="https://twitter.com/spurgeon_tara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="spurgeon" height="30" width="40" /></a>
 <a href="https://instagram.com/spurgeon_gnan_prakasham" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="spurgeon" height="30" width="40" /></a>
+
+<br/>
+
 
 ## 📗 Featured Posts
 - [CSS Specificity - How CSS Rules Cascade and will Win out over another Rule](https://webdevparadise.com/post/css-specificity-how-css-rules-cascade-and-will-win-out-over-another-rule-greater-the-specificity-greater-the-chance-that-the-css-rule-gets-applied/5285)
