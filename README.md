@@ -19,11 +19,11 @@
 <p align="left">
 
 <a href="https://linkedin.com/spurgeon-gnan-prakasham-tara-29004195" target="blank"><img align="center" src="./icons/social/linked-in-alt.svg" alt="spurgeon" height="30" width="40" /></a>
-<a href="https://github.com/SpurgeonPrakash" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="spurgeon" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@webdevparadise" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="spurgeon" height="30" width="40" /></a>
-<a href="https://www.facebook.com/webdevparadise" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="spurgeon" height="30" width="40" /></a>
-<a href="https://twitter.com/spurgeon_tara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="spurgeon" height="30" width="40" /></a>
-<a href="https://instagram.com/spurgeon_gnan_prakasham" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="spurgeon" height="30" width="40" /></a>
+<a href="https://github.com/SpurgeonPrakash" target="blank"><img align="center" src="./icons/social/github.svg" alt="spurgeon" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@webdevparadise" target="blank"><img align="center" src="./icons/social/youtube.svg" alt="spurgeon" height="30" width="40" /></a>
+<a href="https://www.facebook.com/webdevparadise" target="blank"><img align="center" src="./icons/social/facebook.svg" alt="spurgeon" height="30" width="40" /></a>
+<a href="https://twitter.com/spurgeon_tara" target="blank"><img align="center" src="./icons/social/twitter.svg" alt="spurgeon" height="30" width="40" /></a>
+<a href="https://instagram.com/spurgeon_gnan_prakasham" target="blank"><img align="center" src="./icons/social/instagram.svg" alt="spurgeon" height="30" width="40" /></a>
 
 <br/>
 
