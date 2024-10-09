@@ -7,4 +7,7 @@
 - 💬 Ask me about full-stack web and mobile app development.
 - 📫 How to reach me: [Web Dev Paradise](https://webdevparadise.com/about)
 
+<!---
 [![Spurgeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=spurgeonprakash&show_icons=true&theme=github_dark)](https://webdevparadise.com)
+-->
+
