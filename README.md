@@ -18,7 +18,7 @@
 ## 🔗 Connect with me
 <p align="left">
 
-<a href="https://linkedin.com/spurgeon-gnan-prakasham-tara-29004195" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="spurgeon" height="30" width="40" /></a>
+<a href="https://linkedin.com/spurgeon-gnan-prakasham-tara-29004195" target="blank"><img align="center" src="./icons/social/linked-in-alt.svg" alt="spurgeon" height="30" width="40" /></a>
 <a href="https://github.com/SpurgeonPrakash" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="spurgeon" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@webdevparadise" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="spurgeon" height="30" width="40" /></a>
 <a href="https://www.facebook.com/webdevparadise" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="spurgeon" height="30" width="40" /></a>
