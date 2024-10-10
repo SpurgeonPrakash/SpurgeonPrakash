@@ -1,22 +1,21 @@
 <h1 align="center"><img height="36px" width="36px" src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" style="display: inline;"> Hi, I'm Spurgeon</h1>
 <h3 align="center">A Passionate Full Stack Developer</h3>
-<div style="display:flex;flex-wrap:wrap;">
-    <ul>
-        <li>🌍  I'm based in India</li>
-        <li>🖥️  See my portfolio at <a href="https://webdevparadise.com/about" target="blank">My Portfolio</a></li>
-        <li>✉️  You can contact me at [prakashamtara07@gmail.com](mailto:prakashamtara07@gmail.com)</li>
+<div style="display: flex; flex-wrap: wrap; align-items: flex-start;">
+    <ul style="flex: 1; margin: 0; padding: 0; list-style: none;">
+        <li>🌍 I'm based in India</li>
+        <li>🖥️ See my portfolio at <a href="https://webdevparadise.com/about" target="_blank">My Portfolio</a></li>
+        <li>✉️ You can contact me at <a href="mailto:prakashamtara07@gmail.com">prakashamtara07@gmail.com</a></li>
+        <br />
         <li>🧑🏽‍💼 I’m a software engineer</li>
-        <li>👨‍💼 I'm currently working on creating a [blogging community](https://webdevparadise.com)</li>
-        <li>📙 I’m currently learning Web & Mobile App Development in <a href="https://webdevparadise.com" target="blank">WebDevParadise</a></li>
+        <li>👨‍💼 I'm currently working on creating a <a href="https://webdevparadise.com" target="_blank">blogging community</a></li>
+        <li>📙 I’m currently learning Web & Mobile App Development in <a href="https://webdevparadise.com" target="_blank">WebDevParadise</a></li>
         <li>👯 I’m looking to collaborate on web and mobile app development projects</li>
         <li>🤔 I’m looking for a Graphic Designer & Video Editor to start a youtube channel</li>
         <li>💬 Ask me about full-stack web and mobile app development</li>
-        <li>📫 How to reach me: <a href="https://webdevparadise.com/about" target="blank">My Portfolio</a></li> 
+        <li>📫 How to reach me: <a href="https://webdevparadise.com/about" target="_blank">My Portfolio</a></li> 
     </ul>
-    <img style="" src="./gifs/Coding.gif" />
+    <img src="./gifs/Coding.gif" style="width: 300px; height: auto; flex-shrink: 0;" />
 </div>
-
-
 <!---
 [![Spurgeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=spurgeonprakash&show_icons=true&theme=github_dark)](https://webdevparadise.com)
 -->
