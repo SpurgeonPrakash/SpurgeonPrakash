@@ -15,7 +15,7 @@
         <li>💬 Ask me about full-stack web and mobile app development</li>
         <li>📫 How to reach me: <a href="https://webdevparadise.com/about" target="_blank">My Portfolio</a></li> 
     </ul>
-    <img src="./gifs/Coding.gif" width="300" className="responsive-image" />
+    <img src="./gifs/Coding.gif" width="300" />
 </div>
 <!---
 [![Spurgeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=spurgeonprakash&show_icons=true&theme=github_dark)](https://webdevparadise.com)
