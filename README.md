@@ -1,4 +1,4 @@
-# Hi <img height="36px" width="36px" src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" style="display: inline;"> I'm Spurgeon
+# <img height="36px" width="36px" src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" style="display: inline;"> Hi, I'm Spurgeon
 
 * 🌍  I'm based in India
 * 🖥️  See my portfolio at <a href="https://webdevparadise.com/about" target="blank">My Portfolio</a>
