@@ -1,12 +1,13 @@
 <h1 align="center"><img height="36px" width="36px" src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" style="display: inline;"> Hi, I'm Spurgeon</h1>
-<h1 align="center">A Passionate Full Stack Developer</h1>
-<img align="right" width="200" src="./gifs/Coding.gif" />
+<h3 align="center">A Passionate Full Stack Developer</h3>
+<img align="right" width="300" src="./gifs/Coding.gif" />
 
 * 🌍  I'm based in India
 * 🖥️  See my portfolio at <a href="https://webdevparadise.com/about" target="blank">My Portfolio</a>
 * ✉️  You can contact me at [prakashamtara07@gmail.com](mailto:prakashamtara07@gmail.com)
 
-- 🧑🏽‍💼 I’m a software engineer, and I'm currently working on creating a blogging community([Web Dev Paradise](https://webdevparadise.com)).
+- 🧑🏽‍💼 I’m a software engineer
+- 👨‍💼 I'm currently working on creating a [blogging community](https://webdevparadise.com).
 - 📙 I’m currently learning Web & Mobile App Development in <a href="https://webdevparadise.com" target="blank">WebDevParadise</a>.
 - 👯 I’m looking to collaborate on web and mobile app development projects.
 - 🤔 I’m looking for a Graphic Designer & Video Editor to start a youtube channel.
