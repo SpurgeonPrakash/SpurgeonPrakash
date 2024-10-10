@@ -2,7 +2,7 @@
 <h3 align="center">A Passionate Full Stack Developer</h3>
 
 <div style="display:flex;flex-wrap:wrap;">
-    <ul style="">
+    <ul>
         <li>🌍 I'm based in India</li>
         <li>🖥️ See my portfolio at <a href="https://webdevparadise.com/about" target="_blank">My Portfolio</a></li>
         <li>✉️ You can contact me at <a href="mailto:prakashamtara07@gmail.com">prakashamtara07@gmail.com</a></li>
@@ -15,7 +15,7 @@
         <li>💬 Ask me about full-stack web and mobile app development</li>
         <li>📫 How to reach me: <a href="https://webdevparadise.com/about" target="_blank">My Portfolio</a></li> 
     </ul>
-    <img src="./gifs/Coding.gif" style="width=300px"className="responsive-image" />
+    <img src="./gifs/Coding.gif" style="width=300px" className="responsive-image" />
 </div>
 <!---
 [![Spurgeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=spurgeonprakash&show_icons=true&theme=github_dark)](https://webdevparadise.com)
