@@ -1,5 +1,18 @@
 <h1 align="center"><img height="36px" width="36px" src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" style="display: inline;"> Hi, I'm Spurgeon</h1>
 <h3 align="center">A Passionate Full Stack Developer</h3>
+<style>
+    /* Default: Image is on the right with width 300px */
+    .responsive-image {
+        width: 300px;
+    }
+
+    /* Media query for smaller screens or when the image wraps to the bottom */
+    @media (max-width: 600px) {
+        .responsive-image {
+            width: 100%;
+        }
+    }
+</style>
 <div style="display:flex;flex-wrap:wrap;align-items:flex-start;">
     <ul style="flex: 1; margin: 0; padding: 0; list-style: none;">
         <li>🌍 I'm based in India</li>
@@ -14,7 +27,7 @@
         <li>💬 Ask me about full-stack web and mobile app development</li>
         <li>📫 How to reach me: <a href="https://webdevparadise.com/about" target="_blank">My Portfolio</a></li> 
     </ul>
-    <img src="./gifs/Coding.gif" style="width: 300px; height: auto; flex-shrink: 0;" />
+    <img src="./gifs/Coding.gif" className="responsive-image" />
 </div>
 <!---
 [![Spurgeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=spurgeonprakash&show_icons=true&theme=github_dark)](https://webdevparadise.com)
