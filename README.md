@@ -12,8 +12,8 @@
     - 🤔 I’m looking for a Graphic Designer & Video Editor to start a youtube channel
     - 💬 Ask me about full-stack web and mobile app development
     - 📫 How to reach me: <a href="https://webdevparadise.com/about" target="blank">My Portfolio</a>
-</div>
 <img align="right" width="300" src="./gifs/Coding.gif" />
+</div>
 
 
 <!---
