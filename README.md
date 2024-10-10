@@ -7,12 +7,12 @@
 * ✉️  You can contact me at [prakashamtara07@gmail.com](mailto:prakashamtara07@gmail.com)
 
 - 🧑🏽‍💼 I’m a software engineer
-- 👨‍💼 I'm currently working on creating a [blogging community](https://webdevparadise.com).
-- 📙 I’m currently learning Web & Mobile App Development in <a href="https://webdevparadise.com" target="blank">WebDevParadise</a>.
+- 👨‍💼 I'm currently working on creating a [blogging community](https://webdevparadise.com)
+- 📙 I’m currently learning Web & Mobile App Development in <a href="https://webdevparadise.com" target="blank">WebDevParadise</a>
 - 👯 I’m looking to collaborate on web and mobile app development projects.
-- 🤔 I’m looking for a Graphic Designer & Video Editor to start a youtube channel.
-- 💬 Ask me about full-stack web and mobile app development.
-- 📫 How to reach me: <a href="https://webdevparadise.com/about" target="blank">My Portfolio</a>.
+- 🤔 I’m looking for a Graphic Designer & Video Editor to start a youtube channel
+- 💬 Ask me about full-stack web and mobile app development
+- 📫 How to reach me: <a href="https://webdevparadise.com/about" target="blank">My Portfolio</a>
 <!---
 [![Spurgeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=spurgeonprakash&show_icons=true&theme=github_dark)](https://webdevparadise.com)
 -->
