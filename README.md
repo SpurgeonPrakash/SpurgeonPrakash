@@ -1,8 +1,8 @@
 <h1 align="center"><img height="36px" width="36px" src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" style="display: inline;"> Hi, I'm Spurgeon</h1>
 <h3 align="center">A Passionate Full Stack Developer</h3>
 
-<div style="display:flex;flex-wrap:wrap;align-items:flex-start;">
-    <ul style="flex: 1; margin: 0; padding: 0; list-style: none;">
+<div style="display:flex;flex-wrap:wrap;">
+    <ul style="">
         <li>🌍 I'm based in India</li>
         <li>🖥️ See my portfolio at <a href="https://webdevparadise.com/about" target="_blank">My Portfolio</a></li>
         <li>✉️ You can contact me at <a href="mailto:prakashamtara07@gmail.com">prakashamtara07@gmail.com</a></li>
