@@ -13,7 +13,7 @@
         <li>💬 Ask me about full-stack web and mobile app development</li>
         <li>📫 How to reach me: <a href="https://webdevparadise.com/about" target="blank">My Portfolio</a></li> 
     </ul>
-    <img width="300" src="./gifs/Coding.gif" />
+    <img style="" src="./gifs/Coding.gif" />
 </div>
 
 
